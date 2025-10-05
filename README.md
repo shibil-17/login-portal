@@ -45,11 +45,11 @@ Admins can view the details of all registered users.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/shibil-17/my-portfolio.git
+git clone https://github.com/shibil-17/login-portal.git
 ```
 2.Open the project in VS Code
 ```bash
-cd my-portfolio
+cd login-portal
 code .
 ```
 3.Run the Flask app
