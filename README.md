@@ -20,10 +20,10 @@ Admins can view the details of all registered users.
 
 ## Screenshots
 
-### Login Page
+### Registration Page
 <img width="1919" height="995" alt="Login Screenshot" src="https://github.com/user-attachments/assets/56a93297-9c5f-4e28-b332-c7c9aa6f8b2c" />
 
-### Registration Page
+### Login Page
 <img width="1918" height="999" alt="Registration Screenshot" src="https://github.com/user-attachments/assets/165246a4-5db8-4bca-9863-011e6d73985d" />
 
 ### Dashboard Page
@@ -46,7 +46,7 @@ Admins can view the details of all registered users.
 1. **Clone the repository**
 ```bash
 git clone https://github.com/shibil-17/my-portfolio.git
-
+```
 2.Open the project in VS Code
 ```bash
 cd my-portfolio
